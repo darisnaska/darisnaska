@@ -1,17 +1,18 @@
-### Hi there! ![wave](https://github.com/user-attachments/assets/ab2fb54f-c6c5-4893-9929-9621ffb08042)
+#### Hi there! ![wave](https://github.com/user-attachments/assets/ab2fb54f-c6c5-4893-9929-9621ffb08042)
 
+<p style="font-size:14px">
 
-I am Daris, a second-year student, studying Computer Science at Constructor University Bremen, Germany.
+I'm a second-year Computer Science student at Constructor University Bremen, Germany. I have a passion for tackling complex challenges and crafting innovative solutions, particularly in **software development** and **robotics**.
 
-I enjoy tackling complex problems and finding innovative solutions, particularly in areas such as robotics and software development. 
-While I am still exploring my interests and opportunities that computer science brings you, I am particularly drawn towards roles where I can combine my software engineering skills with robotics to create intelligent, functional systems. Artificial Intelligence and machine learning also fascinate me, and I’m eager to learn more about  them and explore all the possible opportunities that they offer. 
+While I’m still exploring the wide range of opportunities that computer science offers, I'm especially drawn to roles where I can blend my **software engineering skills with robotics** to build intelligent, functional systems. I’m also fascinated by **Artificial Intelligence and machine learning** and am eager to dive deeper into these fields to unlock their potential.
 
-I am currently looking to apply my skills in real-world projects, learn from others and dive into roles that push me to grow.
+Currently, I’m seeking real-world projects where I can apply my skills, learn from others, and take on challenges that push me to grow. 
 
-Let`s connect!
+#### Let's connect!
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/darisnaska">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
- 
+
+  </p>
