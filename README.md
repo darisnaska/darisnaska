@@ -1,4 +1,5 @@
-Hi there! ![ ](images/wave.gif)
+### Hi there! ![wave](https://github.com/user-attachments/assets/ab2fb54f-c6c5-4893-9929-9621ffb08042)
+
 
 I am Daris, a second-year student, studying Computer Science at Constructor University Bremen, Germany.
 
