@@ -10,7 +10,7 @@ I am currently looking to apply my skills in real-world projects, learn from oth
 Let`s connect!
 
 <div id="badges">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/darisnaska/)">
+  <a href="https://www.linkedin.com/in/darisnaska">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
  
